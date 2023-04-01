@@ -1,0 +1,19 @@
+{
+  "name": "com.ignition.windowmanager",
+  "displayName": "Window Manager",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "license": "MIT",
+  "author": "Evgeniy Melnikov",
+  "description": "Window manager",
+  "keywords": [
+    "windowmanager"
+  ],
+  "dependencies": {
+    "com.cysharp.unitask": "2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenyMelnikov/window_manager.git"
+  }
+}
